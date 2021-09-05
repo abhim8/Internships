@@ -9,7 +9,8 @@
     <li>Getting complete list of items avaiable in store</li>
     <li>Getting the total sum/cost of all the items in the store</li>
     <li>Searching for a specific item in store</li>
-    <li>List of Working people</li>
+    <li>Reading the List of Working people</li>
+    <li>Getting complete list of people Working in store</li>
     <li>total count of Working people</li>
     <li>adding new workers to the list</li>
     <li>searching for people</li>
