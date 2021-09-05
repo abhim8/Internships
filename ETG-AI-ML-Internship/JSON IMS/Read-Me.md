@@ -9,11 +9,11 @@
     <li>Getting complete list of items avaiable in store</li>
     <li>Getting the total sum/cost of all the items in the store</li>
     <li>Searching for a specific item in store</li>
-    <li>Reading the List of Working people</li>
-    <li>Getting complete list of people Working in store</li>
-    <li>total count of Working people</li>
-    <li>adding new workers to the list</li>
-    <li>searching for people</li>
-    <li>Sum of their salaries</li>
-    <li>Deleting people from list</li>   
+    <li>Reading the List of employees</li>
+    <li>Getting complete list of employees in store</li>
+    <li>total count of employees</li>
+    <li>adding new employees to the list</li>
+    <li>searching for employees</li>
+    <li>Sum of all the employees salaries</li>
+    <li>Deleting people from employees list</li>   
 </ol>
