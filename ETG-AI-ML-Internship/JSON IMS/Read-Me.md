@@ -11,9 +11,9 @@
     <li>Searching for a specific item in store</li>
     <li>Reading the List of employees</li>
     <li>Getting complete list of employees in store</li>
-    <li>total count of employees</li>
-    <li>adding new employees to the list</li>
-    <li>searching for employees</li>
+    <li>Total count of employees</li>
+    <li>Adding new employees to the list</li>
+    <li>Searching for employees</li>
     <li>Sum of all the employees salaries</li>
     <li>Deleting people from employees list</li>   
 </ol>
